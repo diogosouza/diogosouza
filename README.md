@@ -1,16 +1,17 @@
-## Hi there 👋
+# Diogo da Paixão Souza
 
-<!--
-**diogosouza/diogosouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<Sou Diogo Souza, tenho 26 anos e acredito que dados contam histórias — basta saber escutá-los. Em 2023, decidi seguir o que sempre me despertou curiosidade: a Ciência de Dados. Iniciei minha graduação e mergulhei de cabeça nesse universo. Em 2025, realizei uma grande conquista ao ingressar como estagiário em Análise de Dados na Prefeitura, onde tenho aprendido a transformar informações em insights que apoiam decisões reais.>
 
-Here are some ideas to get you started:
+## Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python, SQL, MS Excel
+- Visual Studio
+- Pandas, NumPy, Seaborn
+- PostgreSQL
+
+# Contatos
+
+- [Linkedin](www.linkedin.com/in/diogodapaixaosouza)
+- [E-mail](diogodapaixaosouza@outlook.com)
+
+  
