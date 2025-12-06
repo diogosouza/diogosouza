@@ -4,6 +4,7 @@ Sou Diogo Souza, tenho 26 anos e acredito que dados contam histórias — basta 
 
 ## Tecnologias
 
+- C#
 - Python, SQL, MS Excel
 - Visual Studio
 - Pandas, NumPy, Seaborn
