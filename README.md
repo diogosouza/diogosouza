@@ -1,12 +1,14 @@
 # Diogo da Paixão Souza
 
-Sou Diogo Souza, tenho 26 anos e acredito que dados contam histórias — basta saber escutá-los. Em 2023, decidi seguir o que sempre me despertou curiosidade: a Ciência de Dados. Iniciei minha graduação e mergulhei de cabeça nesse universo. Em 2025, realizei uma grande conquista ao ingressar como estagiário em Análise de Dados na Prefeitura, onde tenho aprendido a transformar informações em insights que apoiam decisões reais.
+Como Engenheiro de Software Júnior, trabalho aplicando práticas de engenharia de software como desenvolvimento de APIs RESTful, autenticação com JWT e integração contínua. Também utilizo PostgreSQL, Entity Framework e programação orientada a objetos para criar soluções eficientes e modernas. 
+
+Minha experiência inclui atuação em análise de dados na SEMDEC, onde colaborei na coleta e análise de informações estratégicas para melhorar programas de empregabilidade. Motivado por desafios que envolvem inovação e aprendizado contínuo, busco contribuir com equipes diversas, valorizando a colaboração e a melhoria contínua. Combinando habilidades técnicas em computação em nuvem e desenvolvimento de software, estou comprometido em entregar soluções de alto impacto que atendam às necessidades da organização.
 
 ## Tecnologias
 
 - C#
+- API de ASP.NET para Web  
 - Python, SQL, MS Excel
-- Visual Studio
 - Pandas, NumPy, Seaborn
 - PostgreSQL
 
